@@ -6,9 +6,9 @@ export default function App () {
 
   return (
 
-    <main className= "min-h-svh bg-offwhitebg py-20 px-6" >
+    <main className= "min-h-svh bg-offwhitebg py-20 px-6 antialiased lg:flex justify-center items-center" >
       
-      <section>
+      <section className= "lg:flex" >
         
 
 
